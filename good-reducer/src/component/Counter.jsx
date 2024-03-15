@@ -22,4 +22,4 @@ export default function Counter() {
       <p>Hello! You are {state.age}.</p>
     </>
   );
-}
+};
