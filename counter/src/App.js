@@ -1,15 +1,15 @@
 import "./App.css";
-import Viewer from "./component/Viewer";
+import Veiwer from "./component/Viewer";
 
 function App() {
   return (
     <div className="App">
       <h1>Simple Counter</h1>
       <section>
-        <Viewer />
+        <Veiwer />
       </section>
     </div>
-  );
+  )
 }
 
 export default App;
