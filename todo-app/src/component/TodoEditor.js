@@ -9,7 +9,7 @@ const TodoEditor = () => {
                 <button>추가</button>
             </div>
         </div>
-    )
+    );
 };
 
 export default TodoEditor;
